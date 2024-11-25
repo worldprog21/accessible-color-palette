@@ -4,6 +4,14 @@
   "description": "Generate WCAG-compliant color schemes from a base color",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worldprog21/wcag-palette-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/worldprog21/wcag-palette-generator/issues"
+  },
+  "homepage": "https://github.com/worldprog21/wcag-palette-generator#readme",
   "scripts": {
     "build": "tsc",
     "test": "jest",
