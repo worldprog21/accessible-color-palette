@@ -1,5 +1,5 @@
 {
-  "name": "accessible-color-palette",
+  "name": "@yourusername/accessible-color-palette",
   "version": "1.0.0",
   "description": "Generate WCAG-compliant color schemes from a base color",
   "main": "dist/index.js",
@@ -20,16 +20,12 @@
   "author": "Sayed Rahmani (https://github.com/worldprog21)",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^29.5.14",
-    "jest": "^29.7.0",
-    "ts-jest": "^29.2.5",
-    "typescript": "^5.7.2"
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.0"
   },
   "files": [
     "dist"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/worldprog21/accessible-color-palette"
-  }
+  ]
 }
